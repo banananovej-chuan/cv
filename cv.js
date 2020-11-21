@@ -33,7 +33,7 @@ let experience = {
         company: "eVisions Advertising",
         startDate: "06/2019",
         endDate: "10/2020",
-        jobDescription: "Pracovní náplní byla tvorba reklamních kampaní na sociálních sítích (FB, IG, LI), participace v tendrech a tvorba cenových nabídek.\n Odpovědnost za reportování klientům - tvorba automatizovaného reportu v GDS & Supermetrics."
+        jobDescription: "Pracovní náplní byla tvorba reklamních kampaní na sociálních sítích (FB, IG, LI), participace v tendrech a tvorba cenových nabídek. Odpovědnost za reportování klientům - tvorba automatizovaného reportu v GDS & Supermetrics."
     },
     internship: {
         company: "GreenSocs s.r.o",

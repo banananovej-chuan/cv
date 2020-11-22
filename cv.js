@@ -9,17 +9,17 @@ const contact = {
     email: "ahoj@chuan.cz"
 };
 const education = {
-    bachelorDegree: {
-        school: "Univerzita Jana Evangelisty Purkyně v Ústí nad Labem",
-        fieldOfStudy: "Finanční management",
-        startYear: 2014,
-        endYear: 2017
-    },
     masterDegree: {
         school: "Univerzita Jana Evangelisty Purkyně v Ústí nad Labem",
         fieldOfStudy: "Obchod a marketing",
         startYear: 2017,
         endYear: 2019
+    },
+    bachelorDegree: {
+        school: "Univerzita Jana Evangelisty Purkyně v Ústí nad Labem",
+        fieldOfStudy: "Finanční management",
+        startYear: 2014,
+        endYear: 2017
     }
 };
 let experience = {
